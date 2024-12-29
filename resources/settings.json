@@ -1,7 +1,7 @@
 {
   "pen":4,
   "theme":1,
-  "mode":14,
+  "mode":0,
   "xv":30000,
   "yv":35000,
   "alpha":2,
@@ -26,7 +26,7 @@
   "half_vol":0,
   "splash":3,
   "hotkey":0,
-  "states":"\/userdata\/system\/stewward",
+  "states":"",
   "menu_bg":0,
   "menu_cursor":1,
   "fast_forward":6,
