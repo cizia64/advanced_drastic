@@ -94,5 +94,5 @@ select + r | quick save
 The layout resources are managed in the following path.<br>
 [https://github.com/trngaje/drastic_layout](https://github.com/trngaje/drastic_layout)
 
-Direct support for devices or sponsorship for purchasing new devices is always welcome.
+[Support for devices or assistance in purchasing devices is always welcome.](https://ko-fi.com/trngaje)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G5DV6J4)
