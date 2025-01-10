@@ -91,8 +91,28 @@ select + r | quick save
 └── usrcheat.dat
 ~~~
 
+> fake microphone
+
+`microphone.wav` : default wav (16bit mono) file for all roms <br>
+`[name_of_rom].wav` : wav file for individual rom <br>
+
+> stylus cursor
+
+name| image
+-----|-----
+1_lt.png | ![](resources/pen/1_lt.png)
+2_lb.png | ![](resources/pen/2_lb.png)
+3_rt.png |  ![](resources/pen/3_rt.png)
+4_lb.png |  ![](resources/pen/4_lb.png)
+5_rb.png |  ![](resources/pen/5_rb.png)
+6_cp.png |  ![](resources/pen/6_cp.png)
+7_lb.png |  ![](resources/pen/7_lb.png) 
+
 The layout resources are managed in the following path.<br>
 [https://github.com/trngaje/drastic_layout](https://github.com/trngaje/drastic_layout)
 
-[Support for devices or assistance in purchasing devices is always welcome.](https://ko-fi.com/trngaje)
+[Support for devices or assistance in purchasing devices is always welcome.](https://ko-fi.com/trngaje) <br>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G5DV6J4)
+
+If you need any improvements, please feel free to communicate your opinion in the discord below <br>
+[<img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0b5061df29d55a92d945_full_logo_blurple_RGB.svg" alt="discord" width="150">](https://discord.gg/ymh4mdJVad)
