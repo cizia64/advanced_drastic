@@ -13,11 +13,23 @@ md5sum:59a7711eff41c640b8861b4d869c747d  drastic<br>
 4. You can configure a separate layout.json file to change the background image to define it.
 5. Supports writing .sav files.
 
+Other changings are as follows.<br>
+[history](history.md)
+
+아래 경로에서 라이브러리를 다운 받을 수 있습니다.<br>
+./libs/libSDL2-2.0.so.0 경로에 복사 바랍니다. <br>
+[libs](https://github.com/trngaje/advanced_drastic/releases/tag/libs)
+
 Supports all devices that support mali, gles and egl environments.
 
 - The devices that have been verified for operation are as follows.<br>
-h700 : rgxxxx, rgcubexx <br>
-a133 : tsp, trimui brick <br>
+
+folder | platform
+-------| -------------
+knulli_mali | h700 devices(rg35xx-h/p/sp, rg34xx, rg40xx-h/v, rgcubexx, rg35xx for knull / muos)
+knulli_gles | a133 device(trimui smart pro, trimui brick for knulli )
+crossmix_gles | a133 devices (trimui smart pro, trimui brick for crossmix os)
+rocknix_wayland | rk3566 devices (rg arc-s for rocknix, wayland-es, sway)
 
 Checked normal operation in various os. (knulli / muos / crossmix)
 
@@ -106,7 +118,7 @@ name| image
 4_lb.png |  ![](resources/pen/4_lb.png)
 5_rb.png |  ![](resources/pen/5_rb.png)
 6_cp.png |  ![](resources/pen/6_cp.png)
-7_lb.png |  ![](resources/pen/7_lb.png) 
+7_lb.png |  ![](resources/pen/7_lb.png)
 
 The layout resources are managed in the following path.<br>
 [https://github.com/trngaje/drastic_layout](https://github.com/trngaje/drastic_layout)
