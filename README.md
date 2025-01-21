@@ -16,9 +16,9 @@ md5sum:59a7711eff41c640b8861b4d869c747d  drastic<br>
 Other changings are as follows.<br>
 [history](history.md)
 
-아래 경로에서 라이브러리를 다운 받을 수 있습니다.<br>
-./libs/libSDL2-2.0.so.0 경로에 복사 바랍니다. <br>
-[libs](https://github.com/trngaje/advanced_drastic/releases/tag/libs)
+You can download the library from the following path.<br>
+[libs](https://github.com/trngaje/advanced_drastic/releases/tag/libs) <br>
+Copy to the `libSDL2-2.0.so .0` to `libs` folder < br>
 
 Supports all devices that support mali, gles and egl environments.
 
