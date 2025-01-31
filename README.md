@@ -18,7 +18,7 @@ Other changings are as follows.<br>
 
 You can download the library from the following path.<br>
 [libs](https://github.com/trngaje/advanced_drastic/releases/tag/libs) <br>
-Copy to the `libSDL2-2.0.so .0` to `libs` folder < br>
+Copy to the `libSDL2-2.0.so .0` to `libs` folder <br>
 
 Supports all devices that support mali, gles and egl environments.
 

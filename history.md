@@ -1,5 +1,14 @@
 #### history
 
+patch-8
+
+1/30 <br>
+- Replace 'system' with 'fopen' for rumble in crossmix os
+- remove "Restore default controls" menu
+
+1/29 <br>
+- Modify to use libIMGegl.so in crossmix os
+
 patch-7
 
 1/20 <br>
